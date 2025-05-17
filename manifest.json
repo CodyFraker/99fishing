@@ -1,0 +1,9 @@
+{
+    "name": "OSRSFishing",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/yourusername/OSRSFishing",
+    "description": "Adds Old School RuneScape inspired fishing to Webfishing",
+    "dependencies": [
+      "NotNet-GDWeave-1.0.0"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "Id": "OSRSFishing",
+  "Metadata": {
+    "Name": "OSRS Fishing",
+    "Author": "99fishing",
+    "Version": "1.0.0",
+    "Description": "Adds Old School RuneScape inspired fishing to Webfishing"
+  }
+} 
